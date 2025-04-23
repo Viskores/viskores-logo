@@ -17,14 +17,14 @@ versions in multiple formats.
 [viskores-logo-name-white.png](viskores-logo-name-white.png) \
 [viskores-logo-name-white.eps](viskores-logo-name-white.eps)
 
-### Logo Only, Box
-![](viskores-logo-image-box-thumbnail.png) \
-[viskores-logo-image-box.png](viskores-logo-image-box.png) \
-[viskores-logo-image-box.jpg](viskores-logo-image-box.jpg) \
-[viskores-logo-image-box.eps](viskores-logo-image-box.eps)
+### Icon Only, Box
+![](viskores-logo-icon-box-thumbnail.png) \
+[viskores-logo-icon-box.png](viskores-logo-icon-box.png) \
+[viskores-logo-icon-box.jpg](viskores-logo-icon-box.jpg) \
+[viskores-logo-icon-box.eps](viskores-logo-icon-box.eps)
 
-### Logo Only
-![](viskores-logo-image-thumbnail.png) \
-[viskores-logo-image.png](viskores-logo-image.png) \
-[viskores-logo-image.jpg](viskores-logo-image.jpg) \
-[viskores-logo-image.eps](viskores-logo-image.eps)
+### Icon Only
+![](viskores-logo-icon-thumbnail.png) \
+[viskores-logo-icon.png](viskores-logo-icon.png) \
+[viskores-logo-icon.jpg](viskores-logo-icon.jpg) \
+[viskores-logo-icon.eps](viskores-logo-icon.eps)
